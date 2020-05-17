@@ -10,7 +10,7 @@
 }
 
 .info-text{
-    color: #737373;
+    color: #000000;
 }
 
 audio{
@@ -25,11 +25,10 @@ audio{
     justify-content: center;
     background-color: black;
 }
-.copyright{
-    color: white;
-}
+
 .mainot{
     color: white;
 }
 a:hover{
+    text-decoration:none;
 }
